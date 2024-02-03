@@ -1,4 +1,3 @@
-os
 flask
 flask_pymongo
 flask_cors
